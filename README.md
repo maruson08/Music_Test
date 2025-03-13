@@ -1,4 +1,4 @@
-# SJSH_Music_Test
+# Music_Test
 
 ## 음악 듣기 수행을 편하게 연습할 수 있는 서비스
 
