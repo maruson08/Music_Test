@@ -9,7 +9,7 @@
 
 ### 사용법
 1. music 폴더에 음악 파일 업로드
-2. song.js에
+2. song.js에 아래 형식대로 작성
 ```JS
    var song = {
   "음악 파일 이름": {
@@ -25,8 +25,9 @@
     }
   };
 ```
-   형식으로 작성
 3. 학교 로고 png 파일 favicon.png 형식으로 올리기
+
+
 
 
 Copyright 2025 Various artists. Wonhee Son All rights reserved.
